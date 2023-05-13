@@ -1,11 +1,10 @@
 {
-	"data":[
-{
-"email":"xxxx@intel.com"
-},
-{
-"email":"PLD@intel.com"
-}
-
-]
+  "data": [
+    {
+      "email": "xxxx@intel.com"
+    },
+    {
+      "email": "PLD@intel.com"
+    }
+  ]
 }
