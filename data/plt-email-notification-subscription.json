@@ -6,7 +6,7 @@
     "partStatus":"Ready for Pickup",
     "reminderBeforeExpired":"Every 6 hours",
     "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-",
+    "reminderDateRange":"-"
   },
   {
     "email": "yyyy@intel.com",
@@ -15,7 +15,7 @@
     "partStatus":"Ready for Pickup",
     "reminderBeforeExpired":"Every 6 hours",
     "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-",
+    "reminderDateRange":"-"
   },
   {
     "email": "PLD@intel.com",
@@ -24,7 +24,7 @@
     "partStatus":"Stored",
     "reminderBeforeExpired":"Every 6 hours",
     "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-",
+    "reminderDateRange":"-"
   },
    {
     "email": "PLD2@intel.com",
@@ -33,6 +33,6 @@
     "partStatus":"Stored",
     "reminderBeforeExpired":"Every 6 hours",
     "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-",
+    "reminderDateRange":"-"
   }
 ]
