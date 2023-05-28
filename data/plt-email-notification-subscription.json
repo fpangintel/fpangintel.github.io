@@ -1,20 +1,38 @@
 [
   {
     "email": "xxxx@intel.com",
-    "type":"New Order",
+    "notificationType":"New Order",
     "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Ready for Pickup"
+    "partStatus":"Ready for Pickup",
+    "reminderBeforeExpired":"Every 6 hours",
+    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
+    "reminderDateRange":"-",
+  },
+  {
+    "email": "yyyy@intel.com",
+    "notificationType":"New Order",
+    "location":"PDS Clean Room | Pass through for Pick-Up",
+    "partStatus":"Ready for Pickup",
+    "reminderBeforeExpired":"Every 6 hours",
+    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
+    "reminderDateRange":"-",
   },
   {
     "email": "PLD@intel.com",
-    "type":"New Order",
+    "notificationType":"New Order",
     "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Stored"
+    "partStatus":"Stored",
+    "reminderBeforeExpired":"Every 6 hours",
+    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
+    "reminderDateRange":"-",
   },
    {
     "email": "PLD2@intel.com",
-    "type":"Cleaned",
+    "notificationType":"Cleaned",
     "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Stored"
+    "partStatus":"Stored",
+    "reminderBeforeExpired":"Every 6 hours",
+    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
+    "reminderDateRange":"-",
   }
 ]
