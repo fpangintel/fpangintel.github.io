@@ -1,8 +1,20 @@
 [
   {
-    "email": "xxxx@intel.com"
+    "email": "xxxx@intel.com",
+    "type":"New Order",
+    "location":"PDS Clean Room | Pass through for Pick-Up",
+    "partStatus":"Ready for Pickup"
   },
   {
-    "email": "PLD@intel.com"
+    "email": "PLD@intel.com",
+    "type":"New Order",
+    "location":"PDS Clean Room | Pass through for Pick-Up",
+    "partStatus":"Stored"
+  },
+   {
+    "email": "PLD2@intel.com",
+    "type":"Cleaned",
+    "location":"PDS Clean Room | Pass through for Pick-Up",
+    "partStatus":"Stored"
   }
 ]
