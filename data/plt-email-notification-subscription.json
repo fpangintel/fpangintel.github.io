@@ -1,42 +1,47 @@
 [
   {
     "email": "PDL@intel.com;ownerNextLevel@intel.com",
-    "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Ready for Pickup",
-    "reminderBeforeExpired":"Every 6 hours",
-    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-"
+    "reminderType": "Pick Up",
+    "location": "PDS Clean Room | Pass through for Pick-Up",
+    "partStatus": "-",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 AM - 07:00 PM",
+    "reminderDateRange": "-"
   },
   {
     "email": "PDLNight@intel.com;ownerNextLevel@intel.com",
-    "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Ready for Pickup",
-    "reminderBeforeExpired":"Every 6 hours",
-    "reminderStartAndEndTimes":"07:00 PM - 07:00 AM",
-    "reminderDateRange":"-"
+    "reminderType": "Pick Up",
+    "location": "PDS Clean Room | Pass through for Pick-Up",
+    "partStatus": "-",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 PM - 07:00 AM",
+    "reminderDateRange": "-"
   },
   {
     "email": "tempPIC@intel.com",
-    "location":"PDS Clean Room | Pass through for Pick-Up",
-    "partStatus":"Ready for Pickup",
-    "reminderBeforeExpired":"Every 6 hours",
-    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"2023-05-28 - 2023-07-01"
+    "reminderType": "Pick Up",
+    "location": "PDS Clean Room | Pass through for Pick-Up",
+    "partStatus": "-",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 AM - 07:00 PM",
+    "reminderDateRange": "2023-05-28 - 2023-07-01"
   },
   {
     "email": "PDL@intel.com;ownerNextLevel@intel.com",
-    "location":"Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
-    "partStatus":"Stored",
-    "reminderBeforeExpired":"Every 6 hours",
-    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-"
+    "reminderType": "Return",
+    "location": "Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
+    "partStatus": "Stored",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 AM - 07:00 PM",
+    "reminderDateRange": "-"
   },
   {
     "email": "PDL@intel.com;ownerNextLevel@intel.com",
-    "location":"Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
-    "partStatus":"Stored",
-    "reminderBeforeExpired":"Every 6 hours",
-    "reminderStartAndEndTimes":"07:00 AM - 07:00 PM",
-    "reminderDateRange":"-"
+    "reminderType": "Return",
+    "location": "Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
+    "partStatus": "Stored",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 AM - 07:00 PM",
+    "reminderDateRange": "-"
   }
 ]
