@@ -1,7 +1,16 @@
 [
   {
+    "reminderName":"Noon Shift Team C",
+    "email": "ownerNextLevel@intel.com",
+    "reminderType": "Orderer's Direct Manager",
+    "location": "-",
+    "reminderBeforeExpired": "Every 6 hours",
+    "reminderStartAndEndTimes": "07:00 PM - 07:00 AM",
+    "reminderDateRange": "-"
+  },
+  {
     "reminderName":"Morning Shift Team A",
-    "email": "PDL@intel.com;ownerNextLevel@intel.com",    
+    "email": "PDL@intel.com;PDL2@intel.com",    
     "reminderType": "Pick Up",
     "location": "PDS Clean Room | Pass through for Pick-Up",
     "reminderBeforeExpired": "Every 6 hours",
@@ -10,7 +19,7 @@
   },
   {
     "reminderName":"Noon Shift Team B",
-    "email": "PDLNight@intel.com;ownerNextLevel@intel.com",
+    "email": "PDLNight@intel.com;PDLNight2@intel.com",
     "reminderType": "Pick Up",
     "location": "PDS Clean Room | Pass through for Pick-Up",
     "reminderBeforeExpired": "Every 6 hours",
@@ -28,7 +37,7 @@
   },
   {
     "reminderName":"Morning Shift Team C",
-    "email": "PDL@intel.com;ownerNextLevel@intel.com",
+    "email": "PDL@intel.com;PDL2@intel.com",
     "reminderType": "Return",
     "location": "Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
     "reminderBeforeExpired": "Every 6 hours",
@@ -37,11 +46,12 @@
   },
   {
     "reminderName":"Noon Shift Team C",
-    "email": "PDL@intel.com;ownerNextLevel@intel.com",
+    "email": "PDL@intel.com;PDL2@intel.com",
     "reminderType": "Return",
     "location": "Clean Room Cabinet (Clean) | Storage Cabinet/Rack, Clean Room Cabinet 2 (Clean) | Storage Cabinet/Rack",
     "reminderBeforeExpired": "Every 6 hours",
     "reminderStartAndEndTimes": "07:00 PM - 07:00 AM",
     "reminderDateRange": "-"
   }
+   
 ]
